@@ -10,6 +10,16 @@ namespace KontactKeepers
     {
         static void Main(string[] args)
         {
+            int choice = int.Parse(Console.ReadLine());
+            switch (choice)
+            {
+                case 1:
+                    Console.WriteLine("Case 1");
+                    break;
+                default:
+                    Console.WriteLine("Case 1");
+                    break;
+            }
         }
     }
 }
