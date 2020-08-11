@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace KontactKeepers
 {
+    // Should be public?
     class EmailConf
     {
         private string emailAddressUName = "KontactKeeper@campus-kiosk.co.za";

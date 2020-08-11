@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{1944A3AB-C77D-4BE0-97BD-023F42F84D48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookAPI", "FacebookAPI\FacebookAPI.csproj", "{72363B24-33F7-428B-A1ED-AF1D6AB75A28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1944A3AB-C77D-4BE0-97BD-023F42F84D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1944A3AB-C77D-4BE0-97BD-023F42F84D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1944A3AB-C77D-4BE0-97BD-023F42F84D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72363B24-33F7-428B-A1ED-AF1D6AB75A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72363B24-33F7-428B-A1ED-AF1D6AB75A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72363B24-33F7-428B-A1ED-AF1D6AB75A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72363B24-33F7-428B-A1ED-AF1D6AB75A28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
