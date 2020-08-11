@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailAPI", "KontactKeepers\EmailAPI.csproj", "{A17851FF-4DB0-4C73-BCBF-45F53396497B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "..\..\..\..\Desktop\BusinessLogic\BusinessLogic.csproj", "{708C10D2-127A-47E8-BA70-D9A5420BF0FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{708C10D2-127A-47E8-BA70-D9A5420BF0FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "..\..\..\..\Desktop\Interface\Interface.csproj", "{1944A3AB-C77D-4BE0-97BD-023F42F84D48}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{1944A3AB-C77D-4BE0-97BD-023F42F84D48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
