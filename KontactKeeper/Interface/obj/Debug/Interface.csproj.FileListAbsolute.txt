@@ -59,3 +59,6 @@ C:\Users\zama\Source\Repos\KontactKeepers\KontactKeeper\Interface\obj\Debug\Inte
 C:\Users\zama\Source\Repos\KontactKeepers\KontactKeeper\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
 C:\Users\zama\Source\Repos\KontactKeepers\KontactKeeper\Interface\obj\Debug\Interface.exe
 C:\Users\zama\Source\Repos\KontactKeepers\KontactKeeper\Interface\obj\Debug\Interface.pdb
+C:\Users\Tennille Hardy\Documents\GitHub\KontactKeepers\KontactKeeper\Interface\bin\Debug\Interface.exe.config
+C:\Users\Tennille Hardy\Documents\GitHub\KontactKeepers\KontactKeeper\Interface\obj\Debug\Interface.exe
+C:\Users\Tennille Hardy\Documents\GitHub\KontactKeepers\KontactKeeper\Interface\obj\Debug\Interface.pdb

@@ -173,6 +173,7 @@ namespace Interface
         private void btnCAAdd_Click(object sender, EventArgs e)
         {
             Connector cn = new Connector();
+            cn.AddAdmin(txtAFName.Text, txtALname.Text);
         }
 
         private void dgvEndUser_CellContentClick(object sender, DataGridViewCellEventArgs e) //Added the datagridview
@@ -198,6 +199,16 @@ namespace Interface
             txtEFBID.Text = endUser.FBID;
             txtEEmail.Text = endUser.Email;
             txtECell.Text = endUser.CellNumber;
+        }
+
+        private void btnEAdd_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCAdd_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
